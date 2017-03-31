@@ -1,0 +1,42 @@
+<! DOCTYPE html>
+
+<html lang="en-US">
+
+<head>
+    <title>Singe Page Scroll</title>
+    <link href="css/stylesheet2.css" rel="stylesheet" type="text/css">
+</head>
+    
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="#one"><figure></figure></a></li>
+            <li><a href="#two"><figure></figure></a></li>
+            <li><a href="#three"><figure></figure></a></li>
+            <li><a href="#four"><figure></figure></a></li>
+            <li><a href="#five"><figure></figure></a></li>
+            <li><a href="#six"><figure></figure></a></li>
+            <li><a href="#seven"><figure></figure></a></li>
+            <li><a href="#eight"><figure></figure></a></li>
+            <li><a href="#nine"><figure></figure></a></li>
+            <li><a href="#ten"><figure></figure></a></li>
+        </ul>
+    </nav>
+    
+    <section id="one" class="beach"> <h1>good morning</h1> </section>
+    <section id="two" class="smile"> <h1>time to work</h1> </section>
+    <section id="three" class="katharine"> <h1>  </h1> </section>
+    <section id="four" class="green"> <h1>bathroom break views</h1> </section>
+    <section id="five" class="purple"> <h1>work</h1> </section>
+    <section id="six" class="blue"> <h1> details</h1> </section>
+    <section id="seven" class="sahil"> <h1>i love working in DTLA</h1> </section>
+    <section id="eight" class="ryan"> <h1> </h1> </section>
+    <section id="nine" class="ryan2"> <h1>time to go home</h1> </section>
+    <section id="ten" class="gameday"> <h1>end.</h1> </section>
+
+
+</body>
+    
+    
+</html>
